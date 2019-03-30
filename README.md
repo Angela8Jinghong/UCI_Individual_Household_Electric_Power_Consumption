@@ -1,1 +1,1 @@
-# UCI_Individual_household_electric_power_consumption
+# UCI_Individual_Household_Electric_Power_Consumption
